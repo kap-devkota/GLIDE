@@ -1,0 +1,30 @@
+AKT1  TP53  570.0  [in_D1 = False]  [in_D2 = False]
+PRKCA  AKT1  526.0  [in_D1 = True]  [in_D2 = False]
+MAPK1  AKT1  516.5  [in_D1 = True]  [in_D2 = True]
+AKT2  AKT1  452.5  [in_D1 = True]  [in_D2 = True]
+PRKACA  PRKCA  450.0  [in_D1 = True]  [in_D2 = True]
+MAPK14  MAPK8  430.5  [in_D1 = True]  [in_D2 = True]
+FYN  SRC  409.0  [in_D1 = True]  [in_D2 = True]
+GRB2  SRC  402.0  [in_D1 = True]  [in_D2 = True]
+CSNK2A1  GSK3B  400.5  [in_D1 = False]  [in_D2 = False]
+MAPK1  MAPK8  397.5  [in_D1 = True]  [in_D2 = True]
+AKT1  CDK1  392.5  [in_D1 = True]  [in_D2 = True]
+MAPK14  AKT1  384.5  [in_D1 = True]  [in_D2 = True]
+Q53GA5  TP53  381.5  [in_D1 = False]  [in_D2 = False]
+CSNK2A1  CSNK2A2  378.0  [in_D1 = True]  [in_D2 = True]
+GSK3A  GSK3B  370.0  [in_D1 = True]  [in_D2 = True]
+MAPK3  MAPK8  362.0  [in_D1 = True]  [in_D2 = True]
+AR  TP53  345.0  [in_D1 = True]  [in_D2 = True]
+RB1  TP53  340.5  [in_D1 = True]  [in_D2 = True]
+MAPK3  AKT1  324.0  [in_D1 = True]  [in_D2 = True]
+MAPK3  PRKACA  322.0  [in_D1 = True]  [in_D2 = True]
+PRKACA  MAPK1  315.0  [in_D1 = True]  [in_D2 = True]
+SRC  LCK  314.5  [in_D1 = True]  [in_D2 = True]
+MAPT  TP53  314.5  [in_D1 = False]  [in_D2 = False]
+AKT1  ABL1  313.0  [in_D1 = True]  [in_D2 = False]
+PRKCA  PRKCD  309.5  [in_D1 = True]  [in_D2 = True]
+
+total_not_in_d1 = 4 / 25
+total_not_in_d2 = 6 / 25
+
+total_in_both = 19 / 25
